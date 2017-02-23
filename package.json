@@ -24,7 +24,7 @@
 		"alias": "test.ajala.ng"
 	},
 	"engines": {
-		"node": "6.8.x"
+		"node": "6.10.0"
 	},
 	"dependencies": {
 		"axios": "^0.15.3",
