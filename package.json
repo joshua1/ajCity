@@ -134,7 +134,7 @@
     "del-cli": "^0.2.1",
     "eslint": "^3.14.0",
     "eslint-if-supported": "^1.0.1",
-    "extract-text-webpack-plugin": "2.x",
+    "extract-text-webpack-plugin": "2.0.0-rc.3",
     "file-loader": "^0.9.0",
     "html-webpack-plugin": "^2.26.0",
     "jshint": "^2.9.4",
