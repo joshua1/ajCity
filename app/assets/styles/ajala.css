@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+@import './bootstrap-reset.css';
+@import '~font-awesome/css/font-awesome.css';
+@import '~flatpickr/dist/themes/airbnb.css';
+@import './animate.css';
+@import './wizard.css';
+@import './component.css';
+@import './app.css';
+@import './helper.css';
+@import '~sweetalert2/dist/sweetalert2.css';
+@import '~bootstrap-table/dist/bootstrap-table.css';

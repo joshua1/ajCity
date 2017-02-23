@@ -1,0 +1,11 @@
+digital ocean
+root
+Lumbarg1
+
+rethinkdb database
+username: admin
+password: EKhrIZUG8L
+
+8092 port for admin access
+
+SABRE_ENCODED='VmpFNk56azNNVHBLTWxGSU9rRkI6VjFNd01UTXdNVFE9'
